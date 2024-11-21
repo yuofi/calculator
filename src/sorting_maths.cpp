@@ -239,7 +239,7 @@ int main() {
         }
         
         std::string result = calc.sorting_station(maths);
-        std::cout << "postfix: " << result << std::endl;
+        //std::cout << "postfix: " << result << std::endl;
 
         if (m == BIG_INT) {
             std::cout << calc.calculate_postfix<BigInt>(result) << std::endl;
