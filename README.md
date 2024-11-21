@@ -6,7 +6,7 @@
 
 1. Загрузите код в папку:
     ```bash
-    git init
+    git clone https://github.com/yuofi/calculator
     ```
 
 2. Соберите программу:
